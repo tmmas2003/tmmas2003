@@ -14,13 +14,10 @@ I enjoy understanding how software works beyond the surface level and have acade
 Kotlin · C · JavaScript · SQL
 
 **Backend & Databases**  
-PostgreSQL · JDBC · REST APIs · Jetty
+PostgreSQL · REST APIs · Jetty · Node 
 
 **Concurrency**  
 Threads · Synchronization · Coroutines · Kotlin Flow · Asynchronous I/O
-
-**Systems & Low-Level**  
-x86-64 Assembly · P16 Assembly · VHDL · Computer Architecture
 
 **Tools**  
 Git · GitHub · Linux · Gradle · Docker
