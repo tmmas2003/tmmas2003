@@ -2,169 +2,101 @@
 
 ### Computer Engineering Student | Software Development
 
-Third-year Computer Engineering student currently looking for my first
-professional opportunity in the technology industry.
+Third-year Computer Engineering student at ISEL, currently looking for my first professional opportunity in IT.
 
-I am particularly interested in software development, backend systems,
-and understanding how software works across different layers of a
-computer system.
+I am particularly interested in **software development, backend systems, and computer systems**, with academic experience ranging from high-level application development to low-level programming and digital systems.
 
 ---
 
 ## About Me
 
-I am a Computer Engineering student with a strong interest in software
-development and a curiosity for understanding how things work beyond
-the surface level.
+I'm a Computer Engineering student who enjoys understanding how software works beyond the surface level.
 
-Throughout my degree, I have worked with different programming
-languages, technologies, and areas of computer science, ranging from
-high-level application development to low-level programming and digital
-systems.
+Throughout my degree, I have worked across different areas of computer science, including **software development, databases, computer architecture, low-level programming, and digital systems**. Kotlin has been the main language throughout my studies, alongside hands-on experience with C, JavaScript, SQL, Assembly, and VHDL.
 
-My main academic experience has been with Kotlin, but my coursework has
-also given me hands-on experience with C, JavaScript, SQL, PostgreSQL,
-x86-64 Assembly, P16 Assembly, and VHDL.
+I enjoy breaking down complex problems, exploring different approaches, and understanding the reasoning behind a solution rather than simply making it work. I particularly value brainstorming and technical discussions, as they challenge assumptions and often lead to better solutions.
 
-I enjoy taking a problem apart, understanding its underlying concepts,
-and then building a solution from the ground up. I particularly value
-brainstorming and technical discussions, as I believe that exchanging
-ideas is one of the most effective ways to challenge assumptions and
-expand existing knowledge.
+I pay close attention to detail and continuously look for ways to improve my work, whether through cleaner code, better design, or a deeper understanding of the problem.
 
-I also have a strong attention to detail and tend to continuously look
-for ways to improve a solution rather than simply considering a task
-finished once it works.
+Alongside university, I have been working since the age of 18. Balancing work and my studies has helped me develop **independence, responsibility, discipline, and consistency** while pursuing my academic and professional goals.
 
-Since the age of 18, I have combined my studies with professional work.
-This experience has helped me develop a strong sense of responsibility,
-independence, discipline, and commitment to achieving my goals.
-
-I am now looking to bring these qualities into my first professional
-role in IT, while continuing to learn from experienced developers and
-contributing to real-world projects.
+I'm now looking for an opportunity where I can apply what I have learned, contribute to real-world software, and continue developing alongside experienced engineers.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
+**Languages**  
+Kotlin · C · JavaScript · SQL
 
-- Kotlin
-- C
-- JavaScript
-- SQL
-- x86-64 Assembly
-- P16 Assembly
-- VHDL
+**Databases & Backend**  
+PostgreSQL · JDBC · REST APIs · Jetty
 
-### Backend & Databases
+**Systems & Low-Level**  
+x86-64 Assembly · P16 Assembly · VHDL · Computer Architecture
 
-- REST APIs
-- JDBC
-- PostgreSQL
-- Relational Database Design
-- SQL
+**Software Development**  
+Object-Oriented Programming · Data Structures & Algorithms · API Design · Testing · Debugging
 
-### Software Development
-
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Reflection
-- Bytecode Generation
-- API Design
-- Software Architecture
-- Testing
-- Debugging
-
-### Systems & Computer Architecture
-
-- Low-level programming
-- x86-64 Assembly
-- P16 Assembly
-- Computer Architecture
-- Digital Systems
-- VHDL
-
-### Tools
-
-- Git
-- GitHub
-- Linux
-- Gradle
+**Tools**  
+Git · GitHub · Linux · Gradle
 
 ---
 
 ## Selected Projects
 
-### House Rental Management System
+### 🏠 [House Rental Management System](https://github.com/tmmas2003/house-rental-management-system)
 
-A full-stack academic project focused on building a house rental
-management system.
+Full-stack academic project for managing house rentals, with a REST API and relational database persistence.
 
-**Technologies:** Kotlin · REST APIs · PostgreSQL · JDBC · Jetty
+**Kotlin · REST APIs · PostgreSQL · JDBC · Jetty**
 
-The project provided practical experience with backend development,
-RESTful APIs, persistence, relational databases, and structuring a
-larger software application.
-
-[View Repository](#)
+- Designed and implemented backend functionality using Kotlin.
+- Worked with RESTful APIs and relational data persistence.
+- Applied software architecture concepts to structure a larger application.
 
 ---
 
-### Kotlin Reflection JDBC
+### 🔍 [Kotlin Reflection JDBC](https://github.com/tmmas2003/kotlin-reflection-jdbc)
 
-A Kotlin persistence library developed as an academic project,
-exploring reflection, JDBC, dynamic bytecode generation, and lazy
-sequences.
+Persistence library developed in Kotlin exploring reflection, JDBC, dynamic bytecode generation, and lazy sequences.
 
-**Technologies:** Kotlin · JDBC · Reflection · Bytecode Generation
+**Kotlin · JDBC · Reflection · JVM**
 
-This project allowed me to explore lower-level aspects of the JVM and
-to understand how higher-level abstractions can be implemented on top
-of existing technologies.
-
-[View Repository](#)
+- Explored Kotlin and Java reflection mechanisms.
+- Worked directly with JDBC for database persistence.
+- Explored dynamic bytecode generation and JVM internals.
+- Developed abstractions over lower-level persistence mechanisms.
 
 ---
 
-### Space Invaders
+### 👾 [Space Invaders](https://github.com/tmmas2003/space-invaders-kotlin)
 
-A Space Invaders game developed in Kotlin as part of my Computer
-Engineering coursework.
+Space Invaders implementation developed as part of my Computer Engineering coursework.
 
-**Technologies:** Kotlin · Object-Oriented Programming
+**Kotlin · Object-Oriented Programming**
 
-The project provided practical experience in object-oriented design,
-game logic, state management, and event-driven programming.
-
-[View Repository](#)
+Focused on game logic, state management, object-oriented design, and event-driven interaction.
 
 ---
 
-### Pac-Man
+### 🟡 [Pac-Man](https://github.com/tmmas2003/pacman-kotlin)
 
-A Pac-Man game developed in Kotlin as part of my Computer Engineering
-coursework.
+Pac-Man implementation developed as part of my Computer Engineering coursework.
 
-**Technologies:** Kotlin · Object-Oriented Programming
+**Kotlin · Object-Oriented Programming**
 
-The project focused on applying software design principles to a larger
-interactive application while working with game logic and state
-management.
-
-[View Repository](#)
+Focused on applying object-oriented design principles, game logic, and state management to an interactive application.
 
 ---
 
-## Academic Background
+## Education
 
-### Computer Engineering
+### BSc in Computer Engineering
+**Instituto Superior de Engenharia de Lisboa (ISEL)**  
+2023 – Present
 
-Third-year Computer Engineering student.
-
-Throughout my degree, I have worked across several areas of computing,
-including:
+Academic experience across:
 
 - Software Engineering
 - Object-Oriented Programming
@@ -176,65 +108,38 @@ including:
 - Digital Systems
 - Web Development
 
-My academic projects have given me experience moving between different
-levels of abstraction, from application-level software to low-level
-programming and hardware description.
+My studies have given me experience working across different levels of abstraction — from application-level software and databases to assembly programming and hardware description.
 
 ---
 
-## What I'm Interested In
+## What I'm Looking For
 
-I am particularly interested in opportunities where I can continue
-developing my skills in:
+I'm currently looking for my **first professional opportunity in IT**, particularly through internship, trainee, or junior-level positions.
+
+My main areas of interest include:
 
 - Software Development
 - Backend Development
 - Systems Programming
 - Databases
-- Distributed Systems
-- Software Architecture
 - Computer Systems
 
-I am also open to exploring different areas of software engineering
-and learning technologies that are relevant to the team and the
-problems being solved.
-
----
-
-## How I Approach Problems
-
-I enjoy solving problems by first trying to understand the underlying
-concepts rather than immediately looking for a solution.
-
-My usual approach is:
-
-1. Understand the problem and its constraints.
-2. Break it down into smaller, manageable components.
-3. Explore possible approaches and discuss trade-offs.
-4. Implement and test the solution.
-5. Review the result and look for opportunities to improve it.
-
-I value clean, understandable code and believe that a working solution
-is only the starting point for building good software.
+I'm also open to exploring other areas of software engineering and learning new technologies as required by the problems, projects, and teams I work with.
 
 ---
 
 ## Currently
 
-- Completing my third year of Computer Engineering
-- Building and improving software projects
-- Expanding my knowledge across different areas of computer science
-- Looking for my first professional opportunity in IT
-- Interested in learning from experienced engineers and contributing
-  to real-world software projects
+- 🎓 Completing my BSc in Computer Engineering at ISEL
+- 💻 Improving and expanding my software portfolio
+- 📚 Strengthening my knowledge of software engineering and computer systems
+- 🔎 Looking for my first professional opportunity in IT
 
 ---
 
 ## Let's Connect
 
-I am currently open to internship and trainee opportunities in IT and
-software development.
+I'm always open to discussing technology, software development, and new opportunities.
 
-- GitHub: [@tmmas2003](https://github.com/tmmas2003)
-- LinkedIn: [https://www.linkedin.com/in/tomas-silva-6573371a3/]
-- Email: [tmmas2003@gmail.com]
+**LinkedIn:** [linkedin.com/in/tomas-silva-6573371a3](https://www.linkedin.com/in/tomas-silva-6573371a3/)  
+**Email:** [tmmas2003@gmail.com](mailto:tmmas2003@gmail.com)
