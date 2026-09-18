@@ -45,7 +45,7 @@ Git · GitHub · Linux · Gradle
 
 ## Selected Projects
 
-### 🏠 [House Rental Management System](https://github.com/tmmas2003/house-rental-management-system)
+### [House Rental Management System](https://github.com/tmmas2003/house-rental-management-system)
 
 Full-stack academic project for managing house rentals, with a REST API and relational database persistence.
 
@@ -57,7 +57,7 @@ Full-stack academic project for managing house rentals, with a REST API and rela
 
 ---
 
-### 🔍 [Kotlin Reflection JDBC](https://github.com/tmmas2003/kotlin-reflection-jdbc)
+### [Kotlin Reflection JDBC](https://github.com/tmmas2003/kotlin-reflection-jdbc)
 
 Persistence library developed in Kotlin exploring reflection, JDBC, dynamic bytecode generation, and lazy sequences.
 
@@ -70,7 +70,7 @@ Persistence library developed in Kotlin exploring reflection, JDBC, dynamic byte
 
 ---
 
-### 👾 [Space Invaders](https://github.com/tmmas2003/space-invaders-kotlin)
+### [Space Invaders](https://github.com/tmmas2003/space-invaders-kotlin)
 
 Space Invaders implementation developed as part of my Computer Engineering coursework.
 
@@ -80,7 +80,7 @@ Focused on game logic, state management, object-oriented design, and event-drive
 
 ---
 
-### 🟡 [Pac-Man](https://github.com/tmmas2003/pacman-kotlin)
+### [Pac-Man](https://github.com/tmmas2003/pacman-kotlin)
 
 Pac-Man implementation developed as part of my Computer Engineering coursework.
 
@@ -130,10 +130,10 @@ I'm also open to exploring other areas of software engineering and learning new 
 
 ## Currently
 
-- 🎓 Completing my BSc in Computer Engineering at ISEL
-- 💻 Improving and expanding my software portfolio
-- 📚 Strengthening my knowledge of software engineering and computer systems
-- 🔎 Looking for my first professional opportunity in IT
+- Completing my BSc in Computer Engineering at ISEL
+- Improving and expanding my software portfolio
+- Strengthening my knowledge of software engineering and computer systems
+- Looking for my first professional opportunity in IT
 
 ---
 
