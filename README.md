@@ -29,8 +29,11 @@ I'm now looking for an opportunity where I can apply what I have learned, contri
 **Languages**  
 Kotlin · C · JavaScript · SQL
 
-**Databases & Backend**  
+**Backend & Databases**  
 PostgreSQL · JDBC · REST APIs · Jetty
+
+**Concurrency & Asynchronous Programming**  
+Threads · Locks & Conditions · Synchronization · Kotlin Coroutines · Flow · Asynchronous I/O
 
 **Systems & Low-Level**  
 x86-64 Assembly · P16 Assembly · VHDL · Computer Architecture
@@ -39,7 +42,7 @@ x86-64 Assembly · P16 Assembly · VHDL · Computer Architecture
 Object-Oriented Programming · Data Structures & Algorithms · API Design · Testing · Debugging
 
 **Tools**  
-Git · GitHub · Linux · Gradle
+Git · GitHub · Linux · Gradle · Docker
 
 ---
 
@@ -60,6 +63,22 @@ Full-stack house rental management system developed as an academic project, comb
 
 ---
 
+### [Concurrent Programming in Kotlin](https://github.com/tmmas2003/concurrent-programming-kotlin)
+
+Academic project developed across three assignments, exploring concurrent and asynchronous programming from traditional JVM threads and synchronization mechanisms to Kotlin coroutines, Flows, and asynchronous network I/O.
+
+**Kotlin · Threads · ReentrantLock · Coroutines · Flow · TCP · Async I/O**
+
+- Implemented thread-safe data structures and concurrent abstractions.
+- Worked with locks, condition variables, timeouts, interruption, and synchronization of shared state.
+- Built a custom thread pool and other higher-level concurrent components.
+- Used Kotlin coroutines and Flows for suspending and asynchronous event processing.
+- Developed concurrent TCP server components using both thread-based and coroutine-based approaches.
+- Worked with Java NIO asynchronous socket channels and callback-to-suspending API adaptation.
+- Developed automated tests for concurrent, asynchronous, and cancellation-sensitive behaviour.
+
+---
+
 ### [Kotlin Reflection JDBC](https://github.com/tmmas2003/kotlin-reflection-jdbc)
 
 Persistence library developed in Kotlin exploring reflection, JDBC, dynamic bytecode generation, and lazy sequences.
@@ -70,27 +89,6 @@ Persistence library developed in Kotlin exploring reflection, JDBC, dynamic byte
 - Worked directly with JDBC for database persistence.
 - Explored dynamic bytecode generation and JVM internals.
 - Developed abstractions over lower-level persistence mechanisms.
-
----
-
-### [Space Invaders](https://github.com/tmmas2003/space-invaders-kotlin)
-
-Early academic project developed during the first semester of my degree,
-focused on learning Kotlin and applying fundamental object-oriented
-programming concepts to an interactive game.
-
-
-**Kotlin · Object-Oriented Programming · Game Loops · Collision Detection**
-
----
-
-### [Pac-Man](https://github.com/tmmas2003/pacman-kotlin)
-
-Early academic project developed during the first semester of my degree,
-exploring grid-based game logic, state management, movement, and
-object-oriented design.
-
-**Kotlin · Object-Oriented Programming · State Management · Grid-Based Logic**
 
 ---
 
