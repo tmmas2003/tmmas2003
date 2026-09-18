@@ -58,6 +58,9 @@ Instituto Superior de Engenharia de Lisboa (ISEL)
 
 ---
 
-## Contact
+## Let's Connect 
 
-[LinkedIn](https://www.linkedin.com/in/tomas-silva-6573371a3/) · [Email](mailto:tmmas2003@gmail.com)
+I'm always open to discussing technology, software development, and new opportunities. 
+
+**LinkedIn:** [linkedin.com/in/tomas-silva-6573371a3](https://www.linkedin.com/in/tomas-silva-6573371a3/) 
+**Email:** [tmmas2003@gmail.com](mailto:tmmas2003@gmail.com)
