@@ -75,21 +75,22 @@ Persistence library developed in Kotlin exploring reflection, JDBC, dynamic byte
 
 ### [Space Invaders](https://github.com/tmmas2003/space-invaders-kotlin)
 
-Space Invaders implementation developed as part of my Computer Engineering coursework.
+Early academic project developed during the first semester of my degree,
+focused on learning Kotlin and applying fundamental object-oriented
+programming concepts to an interactive game.
 
-**Kotlin · Object-Oriented Programming**
 
-Focused on game logic, state management, object-oriented design, and event-driven interaction.
+**Kotlin · Object-Oriented Programming · Game Loops · Collision Detection**
 
 ---
 
 ### [Pac-Man](https://github.com/tmmas2003/pacman-kotlin)
 
-Pac-Man implementation developed as part of my Computer Engineering coursework.
+Early academic project developed during the first semester of my degree,
+exploring grid-based game logic, state management, movement, and
+object-oriented design.
 
-**Kotlin · Object-Oriented Programming**
-
-Focused on applying object-oriented design principles, game logic, and state management to an interactive application.
+**Kotlin · Object-Oriented Programming · State Management · Grid-Based Logic**
 
 ---
 
