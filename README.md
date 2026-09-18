@@ -62,6 +62,6 @@ Instituto Superior de Engenharia de Lisboa (ISEL)
 
 I'm always open to discussing technology, software development, and new opportunities. 
 
-**LinkedIn:** [linkedin.com/in/tomas-silva-6573371a3](https://www.linkedin.com/in/tomas-silva-6573371a3/) 
+**LinkedIn:** [linkedin.com/in/tom%C3%A1s-silva-6573371a3/](https://www.linkedin.com/in/tom%C3%A1s-silva-6573371a3/) 
 
 **Email:** [tmmas2003@gmail.com](mailto:tmmas2003@gmail.com)
