@@ -47,13 +47,16 @@ Git · GitHub · Linux · Gradle
 
 ### [House Rental Management System](https://github.com/tmmas2003/house-rental-management-system)
 
-Full-stack academic project for managing house rentals, with a REST API and relational database persistence.
+Full-stack house rental management system developed as an academic project, combining a Kotlin backend, REST API, PostgreSQL persistence, and a web frontend built with HTML and JavaScript.
 
-**Kotlin · REST APIs · PostgreSQL · JDBC · Jetty**
+**Kotlin · JavaScript · HTML · REST APIs · PostgreSQL · JDBC · Jetty**
 
-- Designed and implemented backend functionality using Kotlin.
-- Worked with RESTful APIs and relational data persistence.
-- Applied software architecture concepts to structure a larger application.
+- Designed and implemented backend functionality using Kotlin and a layered architecture.
+- Built RESTful endpoints for user, property, and rental management.
+- Implemented relational data persistence using PostgreSQL and JDBC.
+- Developed the web frontend using HTML and JavaScript to interact with the backend API.
+- Applied separation of concerns across controllers, services, repositories, domain models, and DTOs.
+- Worked with Docker, OpenAPI documentation, automated tests, and collaborative development using Git.
 
 ---
 
