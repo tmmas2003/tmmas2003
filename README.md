@@ -98,23 +98,64 @@ object-oriented design.
 
 ### BSc in Computer Engineering
 **Instituto Superior de Engenharia de Lisboa (ISEL)**  
-2023 – Present
+2021 – Present
 
-Academic experience across:
+Throughout my degree, I have gained academic and practical experience across several areas of computer science and software engineering.
 
-- Software Engineering
+### Software Development
 - Object-Oriented Programming
 - Data Structures & Algorithms
-- Databases
-- Computer Architecture
-- Operating Systems
-- Low-Level Programming
-- Digital Systems
+- Software Engineering
+- Software Architecture
+- Testing and Debugging
+- Functional Programming Concepts
+
+### Backend & Web
 - Web Development
+- REST APIs
+- JDBC
+- PostgreSQL
+- Relational Database Design
+- Layered Application Architecture
 
-My studies have given me experience working across different levels of abstraction — from application-level software and databases to assembly programming and hardware description.
+### Concurrency & Asynchronous Programming
+- Threads
+- Semaphores
+- Monitors
+- Synchronization
+- Kotlin Coroutines
+- Lazy Sequences
+- Kotlin Flows
+- Concurrent and asynchronous execution
 
----
+### Systems & Computer Architecture
+- Operating Systems
+- Computer Architecture
+- Low-Level Programming
+- x86-64 Assembly
+- P16 Assembly
+
+### Runtime & Language Concepts
+- Reflection
+- Dynamic Bytecode Generation
+- JVM concepts
+- Lazy evaluation
+
+### Digital Systems
+- VHDL
+- Digital Logic
+- Hardware Description
+
+### Tools & Development Practices
+- Git
+- GitHub
+- Gradle
+- Linux
+- Collaborative development
+
+My studies have given me experience working across different levels of abstraction — from high-level application development, backend systems, databases, and concurrent programming to operating systems, assembly, computer architecture, and digital hardware.
+
+This broad exposure has helped me understand not only how to build software, but also how software interacts with runtimes, operating systems, processors, memory, and hardware
 
 ## What I'm Looking For
 
