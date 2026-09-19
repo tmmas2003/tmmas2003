@@ -46,7 +46,7 @@ Academic project exploring concurrency from JVM threads and synchronization mech
 
 **BSc in Computer Science and Engineering**  
 Instituto Superior de Engenharia de Lisboa (ISEL)  
-2021 – Present
+2023 – 2027
 
 ---
 
