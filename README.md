@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student at ISEL
 
-Third-year Computer Engineering student currently looking for my first professional opportunity in IT.
+Third-year Computer Science and Engineering student currently looking for my first professional opportunity in IT.
 
 I enjoy understanding how software works beyond the surface level and have academic experience across software development, backend systems, databases, concurrent programming, computer architecture, and low-level programming.
 
